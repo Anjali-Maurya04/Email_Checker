@@ -1,0 +1,46 @@
+{
+  "risks": [
+    {
+      "type": "Legal commitment",
+      "description": "Guarantee of 50% profit within 2 months",
+      "why_risk": "This statement may be considered a legally binding promise, which could lead to financial losses if not fulfilled.",
+      "suggestion": "Rephrase to 'We estimate a 50% profit within 2 months' to avoid any potential legal liabilities.",
+      "severity": 8
+    },
+    {
+      "type": "Financial/pricing risk",
+      "description": "Sharing internal pricing sheet",
+      "why_risk": "This may compromise the company's pricing strategy and potentially harm its competitive advantage.",
+      "suggestion": "Only share pricing information with authorized personnel or after obtaining necessary approvals.",
+      "severity": 6
+    },
+    {
+      "type": "Confidential/internal information leak",
+      "description": "Sharing internal pricing sheet",
+      "why_risk": "This may expose sensitive company information to unauthorized parties.",
+      "suggestion": "Only share pricing information with authorized personnel or after obtaining necessary approvals.",
+      "severity": 7
+    },
+    {
+      "type": "Personal data exposure",
+      "description": "Sharing John's phone number",
+      "why_risk": "This may compromise John's personal data and potentially lead to spam or harassment.",
+      "suggestion": "Remove John's phone number from the email or obtain his consent to share it.",
+      "severity": 5
+    },
+    {
+      "type": "NDA violations",
+      "description": "Sharing internal pricing sheet",
+      "why_risk": "This may compromise any non-disclosure agreements (NDAs) in place with clients or partners.",
+      "suggestion": "Only share pricing information with authorized personnel or after obtaining necessary approvals.",
+      "severity": 9
+    },
+    {
+      "type": "Offensive or unprofessional tone",
+      "description": "Lack of formal greeting or closing",
+      "why_risk": "This may be perceived as unprofessional or even rude.",
+      "suggestion": "Use a formal greeting and closing, such as 'Dear [Client]' and 'Best regards'.",
+      "severity": 3
+    }
+  ]
+}
