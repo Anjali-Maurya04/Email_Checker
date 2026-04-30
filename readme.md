@@ -34,15 +34,15 @@ An AI-powered tool that analyzes corporate emails and detects compliance risks s
 .
 ├── main.py                  # Main script
 ├── email_risk_report.json  # Output (generated)
-├── .env                     # API key (DO NOT COMMIT)
+├── .env                     # Add this file with your api key
 ├── requirements.txt
 ```
 
 ## Setup Instructions
 
 ### Clone the Repository
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Anjali-Maurya04/Email_Checker.git
+cd Email_AI
 
 ### Create Virtual Environment
 
